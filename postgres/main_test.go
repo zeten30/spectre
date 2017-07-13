@@ -7,7 +7,7 @@ import (
 	"os"
 	"testing"
 
-	"howett.net/spectre"
+	"github.com/zeten30/spectre"
 
 	"github.com/Sirupsen/logrus"
 )

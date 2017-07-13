@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"howett.net/spectre"
+	"github.com/zeten30/spectre"
 )
 
 type dbReport struct {

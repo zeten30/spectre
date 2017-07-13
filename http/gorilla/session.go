@@ -7,7 +7,7 @@ import (
 	"sync"
 
 	"github.com/gorilla/sessions"
-	"howett.net/spectre/http"
+	"github.com/zeten30/spectre/http"
 )
 
 var scopeCookieName = map[http.SessionScope]string{

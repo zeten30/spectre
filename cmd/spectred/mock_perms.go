@@ -6,7 +6,7 @@ import (
 	gohttp "net/http"
 
 	"github.com/Sirupsen/logrus"
-	"howett.net/spectre"
+	"github.com/zeten30/spectre"
 )
 
 // MOCK ONLY

@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"time"
 
-	"howett.net/spectre"
+	"github.com/zeten30/spectre"
 )
 
 type dbUserPastePermission struct {

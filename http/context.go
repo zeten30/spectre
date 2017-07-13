@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"sync"
 
-	"howett.net/spectre"
+	"github.com/zeten30/spectre"
 )
 
 type contextBindingUserService struct {

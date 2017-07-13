@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"howett.net/spectre"
-	"howett.net/spectre/postgres"
+	"github.com/zeten30/spectre"
+	"github.com/zeten30/spectre/postgres"
 
 	"github.com/Sirupsen/logrus"
 	"github.com/jessevdk/go-flags"

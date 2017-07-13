@@ -9,7 +9,7 @@ import (
 	"strings"
 	"sync"
 
-	"howett.net/spectre"
+	"github.com/zeten30/spectre"
 
 	"github.com/gorilla/handlers"
 )

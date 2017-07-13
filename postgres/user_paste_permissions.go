@@ -4,7 +4,7 @@ import (
 	"context"
 	"database/sql"
 
-	"howett.net/spectre"
+	"github.com/zeten30/spectre"
 )
 
 type userPastePermissionScope struct {

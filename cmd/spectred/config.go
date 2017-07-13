@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	ghtime "howett.net/spectre/internal/time"
+	ghtime "github.com/zeten30/spectre/internal/time"
 
 	"github.com/Sirupsen/logrus"
 )

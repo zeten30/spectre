@@ -11,7 +11,7 @@ import (
 
 	"github.com/Sirupsen/logrus"
 
-	"howett.net/spectre"
+	"github.com/zeten30/spectre"
 )
 
 func generateRandomBytes(nbytes int) ([]byte, error) {

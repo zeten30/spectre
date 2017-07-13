@@ -4,7 +4,7 @@ import (
 	"io"
 	"time"
 
-	"howett.net/spectre"
+	"github.com/zeten30/spectre"
 )
 
 type encryptedPastePlaceholder struct {

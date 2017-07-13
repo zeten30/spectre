@@ -3,7 +3,7 @@ package http
 import (
 	"errors"
 
-	"howett.net/spectre"
+	"github.com/zeten30/spectre"
 )
 
 var (

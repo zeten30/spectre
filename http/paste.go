@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"howett.net/spectre"
-	ghtime "howett.net/spectre/internal/time"
+	"github.com/zeten30/spectre"
+	ghtime "github.com/zeten30/spectre/internal/time"
 )
 
 type pasteHandler struct {

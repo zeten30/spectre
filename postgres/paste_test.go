@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"howett.net/spectre"
+	"github.com/zeten30/spectre"
 )
 
 type testReadCloser struct {

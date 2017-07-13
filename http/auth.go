@@ -3,7 +3,7 @@ package http
 import (
 	"net/http"
 
-	"howett.net/spectre"
+	"github.com/zeten30/spectre"
 )
 
 // TODO(DH) This file should be split up and have its comments cleaned.

@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"howett.net/spectre"
+	"github.com/zeten30/spectre"
 
 	"github.com/Sirupsen/logrus"
 	"github.com/lib/pq"

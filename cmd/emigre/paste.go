@@ -8,10 +8,10 @@ import (
 	"strconv"
 	"time"
 
-	"howett.net/spectre"
+	"github.com/zeten30/spectre"
 
 	"github.com/DHowett/go-xattr"
-	ghtime "howett.net/spectre/internal/time"
+	ghtime "github.com/zeten30/spectre/internal/time"
 )
 
 var base32Encoder = base32.NewEncoding("abcdefghjkmnopqrstuvwxyz23456789")

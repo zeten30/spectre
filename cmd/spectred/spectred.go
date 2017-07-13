@@ -1,7 +1,7 @@
 package main
 
 import (
-	"howett.net/spectre/http"
+	"github.com/zeten30/spectre/http"
 )
 
 func main() {

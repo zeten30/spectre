@@ -1,2 +1,2 @@
 // Package spectre contains the domain types for ...
-package spectre // import "howett.net/spectre"
+package spectre // import "github.com/zeten30/spectre"

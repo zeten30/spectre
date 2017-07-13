@@ -3,7 +3,7 @@ package postgres
 import (
 	"context"
 
-	"howett.net/spectre"
+	"github.com/zeten30/spectre"
 )
 
 type dbGrant struct {

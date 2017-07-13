@@ -1,6 +1,6 @@
 package postgres
 
-import "howett.net/spectre"
+import "github.com/zeten30/spectre"
 
 type dbUserPermissionScope struct {
 	u   *dbUser
